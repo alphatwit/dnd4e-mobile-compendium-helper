@@ -1,0 +1,28 @@
+Repo URL: http://github.com/devp/dnd4e-mobile-compendium-helper
+
+This was written quickly to be just a small front-end for the D&D Compendium. The service does plenty, so this just provides a mobile-friendly form for that. PHP was chosen as something easily tossed up on anyone's web hosting (so that this page could be hosted by anyone). 
+
+Use of this page requires a working DDI account.
+
+The icon.png was an attempt to have an icon when this is saved as an iPhone bookmark.
+
+...
+
+modes (Tabs):
+  Glossary, Feat, Power, Race, Item, Monster, Ritual, Skill, Trap
+
+search url:
+    /KeywordSearch?KeywordSearch=QUERY&NameOnly=BOOLEAN&Tab=MODE
+    ex: http://wizards.com/dndinsider/compendium/CompendiumSearch.asmx /KeywordSearch?Keywords=stunned&NameOnly=false&Tab=Glossary
+
+compendium url:
+  /MODE_LOWERCASE.aspx?id=ID
+  ex: http://wizards.com/dndinsider/compendium/glossary.aspx?id=323
+
+sources:
+  icon.png: http://openclipart.org/people/ClayDowling/ClayDowling_D20.png
+
+...
+
+by Dev P
+http://forgreatjustice.net
