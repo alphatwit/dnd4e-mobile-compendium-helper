@@ -2,7 +2,7 @@
 
 error_reporting(E_ALL);
 
-$MODES = split(" ", "Glossary Feat Power Race Item Monster Ritual Skill Trap");
+$MODES = split(" ", "Glossary Background Class Companion Deity Epicdestiny Feat Monster Paragonpath Power Race Ritual Skill Trap");
 
 function compendium_url($mode, $id) {
   return sprintf("http://www.wizards.com/dndinsider/compendium/%s.aspx?id=%s", strtolower($mode), $id);
