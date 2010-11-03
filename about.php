@@ -1,7 +1,7 @@
 <? include('html_top.inc') ?>
 
 <p>
-  This tool was written as a mobile-friendly front-end for the D&amp;D Insider Compendium. Actual site and contents are property of Wizards of the Coast.
+  This tool was written as a mobile-friendly front-end for the D&amp;D Insider Compendium. Actual site and contents are property of Wizards of the Coast. Credit to them for making such a fabulous tool.
 </p>
 
 <p>

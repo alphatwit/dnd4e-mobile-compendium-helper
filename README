@@ -22,7 +22,10 @@ compendium url:
 sources:
   icon.png: http://openclipart.org/people/ClayDowling/ClayDowling_D20.png
 
+Debugging:
+  Add ?debug=true to the end of the URL tos ee the Search URL.
+
 ...
 
 by Dev P
-http://forgreatjustice.net
+http://games.forgreatjustice.net
